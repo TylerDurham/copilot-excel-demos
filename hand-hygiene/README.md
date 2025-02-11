@@ -1,6 +1,16 @@
 # Hand Hygiene Tracking
 
-# To XLOOKUP, or not to XLOOKUP?
+# Key
+
+> *Speakker notes*
+
+**Additional considerations.**
+
+~~~ copilot
+Prompt
+~~~
+
+# Using XLOOKUP to "Join" Data
 
 ### Good
 
